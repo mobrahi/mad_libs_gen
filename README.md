@@ -36,12 +36,12 @@ This project features multiple themed stories, a user-friendly interface, and a 
 
 2. **Navigate to the project directory**
    ```bash
-   cd mad-libs-generator
+   cd mad_libs_gen
    ```
 
 3. **Run the game**
    ```bash
-   python mad_libs.py
+   python mad_libs_generator.py
    ```
 
 ## 🎮 How to Play
@@ -80,9 +80,9 @@ We brought our tacos to play in the sand...
 ## 📁 Project Structure
 
 ```
-mad-libs-generator/
+mad_libs_gen/
 │
-├── mad_libs.py          # Main game file
+├── mad_libs_generator.py          # Main game file
 ├── README.md            # Project documentation
 └── LICENSE              # MIT License
 ```
