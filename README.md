@@ -1,4 +1,3 @@
-Here's a comprehensive README.md file for your Mad Libs Generator project, ready to copy and paste into GitHub:
 
 ```markdown
 # 🎭 Mad Libs Generator
