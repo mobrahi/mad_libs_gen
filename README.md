@@ -170,15 +170,6 @@ Contributions are welcome! Here's how you can help:
 - Write unit tests
 - Improve documentation
 
-## 📚 Resources for Beginners
-
-If you're new to Python, these resources might help:
-
-- [Python Official Tutorial](https://docs.python.org/3/tutorial/)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
-- [Python for Beginners (Microsoft)](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/)
-
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
@@ -187,7 +178,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 - Inspired by the classic Mad Libs word game
 - Created as a learning project for Python beginners
-- Thanks to all contributors and learners who make programming fun!
+- Thanks to all contributors who make programming fun!
 
 ## 📧 Contact
 
@@ -202,16 +193,5 @@ Project Link: [https://github.com/mobrahi/mad_libs_gen](https://github.com/mobra
 If you found this project helpful or fun, please give it a ⭐ on GitHub!
 
 ---
-
-## 🎯 Beginner's Quick Start
-
-Just want to run the simplest version? Try this minimal example:
-
-```python
-# Simple Mad Libs
-color = input("Enter a color: ")
-animal = input("Enter an animal: ")
-print(f"One day, a {color} {animal} walked into a store...")
-```
 
 **Happy Coding!** 🚀
